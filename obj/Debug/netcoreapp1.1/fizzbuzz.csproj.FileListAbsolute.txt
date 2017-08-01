@@ -1,0 +1,8 @@
+C:\Users\Chris\Documents\snippets\fizzbuzz\bin\Debug\netcoreapp1.1\fizzbuzz.deps.json
+C:\Users\Chris\Documents\snippets\fizzbuzz\bin\Debug\netcoreapp1.1\fizzbuzz.runtimeconfig.json
+C:\Users\Chris\Documents\snippets\fizzbuzz\bin\Debug\netcoreapp1.1\fizzbuzz.runtimeconfig.dev.json
+C:\Users\Chris\Documents\snippets\fizzbuzz\bin\Debug\netcoreapp1.1\fizzbuzz.dll
+C:\Users\Chris\Documents\snippets\fizzbuzz\bin\Debug\netcoreapp1.1\fizzbuzz.pdb
+C:\Users\Chris\Documents\snippets\fizzbuzz\obj\Debug\netcoreapp1.1\fizzbuzz.AssemblyInfo.cs
+C:\Users\Chris\Documents\snippets\fizzbuzz\obj\Debug\netcoreapp1.1\fizzbuzz.dll
+C:\Users\Chris\Documents\snippets\fizzbuzz\obj\Debug\netcoreapp1.1\fizzbuzz.pdb
